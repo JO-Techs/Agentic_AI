@@ -1,17 +1,17 @@
-# 🚀 Auto Code Reviewer – AI-Powered GitHub PR Review Bot
+#  Auto Code Reviewer – AI-Powered GitHub PR Review Bot
 
 ## 🔹 Project Overview
 This AI-powered GitHub bot **automatically reviews pull requests**, analyzes code changes, and suggests improvements based on best practices, security vulnerabilities, and coding standards.
 
-## 📌 Features
-- ✅ **Automatic PR Review**: Fetches pull requests and analyzes code changes.
-- ✅ **AI-Powered Suggestions**: Uses GPT-4 to provide code quality insights.
-- ✅ **Security & Best Practices Check**: Identifies vulnerabilities and optimizations.
-- ✅ **GitHub Integration**: Posts comments directly on PRs using GitHub API.
+##  Features
+- 🔹 **Automatic PR Review**: Fetches pull requests and analyzes code changes.
+- 🔹 **AI-Powered Suggestions**: Uses GPT-4 to provide code quality insights.
+- 🔹 **Security & Best Practices Check**: Identifies vulnerabilities and optimizations.
+- 🔹 **GitHub Integration**: Posts comments directly on PRs using GitHub API.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 | Component       | Technology |
 |----------------|------------|
 | **Backend**    | Python (Flask/FastAPI) |
