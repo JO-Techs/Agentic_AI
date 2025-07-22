@@ -21,7 +21,7 @@ This AI-powered GitHub bot **automatically reviews pull requests**, analyzes cod
 
 ---
 
-## 📍 Roadmap
+##  Roadmap
 
 ### **1️⃣ Project Setup**
 - [ ] Create a **GitHub App** and get API credentials.
